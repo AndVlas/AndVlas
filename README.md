@@ -27,7 +27,7 @@
 
 ## 📱Мои контакты
 
-- ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) [tg](https://t.me/Terlack)
-- 📬 [mail](AndV1as@yandex.ru)
+- ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) [@Terlack](https://t.me/Terlack)
+- 📬 [AndV1as@yandex.ru](AndV1as@yandex.ru)
 
 ### Свяжитесь со мной, чтобы обсудить возможности! 😊
