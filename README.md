@@ -1,5 +1,4 @@
-# Привет, меня зовут Андрей!👋
-
+<h1 align="center">Привет, меня зовут Андрей!👋</h1>
 
 ## ✏️Обо мне
 
@@ -30,4 +29,4 @@
 - ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) [@Terlack](https://t.me/Terlack)
 - 📬 [AndV1as@yandex.ru](AndV1as@yandex.ru)
 
-### Свяжитесь со мной, чтобы обсудить возможности! 😊
+<h3 align="center">Свяжитесь со мной, чтобы обсудить возможности! 😊</h3>
